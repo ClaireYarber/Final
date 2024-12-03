@@ -1,7 +1,7 @@
 <?php
 function get_db_connection() {
     $servername = "138.197.17.168";
-    $username = "misclair_finaluser";
+    $username = "misclair";
     $password = "CY41727jms!";
     $dbname = "misclair_final";
 
