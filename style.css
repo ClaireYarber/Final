@@ -1,0 +1,11 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue; /* Set background color to light blue */
+}
+h1 {
+    margin-top: 20px;
+}
+.table {
+    margin-top: 20px;
+}
